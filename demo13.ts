@@ -25,9 +25,9 @@
 // console.log(girl.sayLove());
 
 // 静态类写法
-class Girl {
-    static sayLove() {
-        return "I love you.";
-    }
-}
-console.log(Girl.sayLove());
+// class Girl {
+//     static sayLove() {
+//         return "I love you.";
+//     }
+// }
+// console.log(Girl.sayLove());
