@@ -9,7 +9,7 @@
 // console.log(person._name);
 
 // 抽象类
-abstract class Girl {
+/* abstract class Girl {
     abstract skill();
 }
 class Waiter extends Girl {
@@ -29,4 +29,4 @@ class Senior extends Girl {
 }
 
 const senior = new Senior();
-senior.skill();
+senior.skill(); */
