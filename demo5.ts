@@ -1,4 +1,4 @@
-function d5Sum(one: number, two: number): number {
+/* function d5Sum(one: number, two: number): number {
     return one + two;
 }
 
@@ -25,3 +25,4 @@ function d5Add2({ one }: { one: number }) {
     return one;
 }
 const d5Total2 = d5Add2({ one: 1 });
+ */

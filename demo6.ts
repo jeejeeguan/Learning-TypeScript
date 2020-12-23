@@ -1,4 +1,4 @@
-const d6NumberArr: number[] = [1, 2, 3];
+/* const d6NumberArr: number[] = [1, 2, 3];
 const d6StringArr: string[] = ["coding", "coding", "coding"];
 const d6UndefinedArr: undefined[] = [undefined, undefined];
 const d6MixArr: (number | string)[] = [1, 2, "coding"];
@@ -32,3 +32,4 @@ const d6MixArr3: Human[] = [
 
 console.log(d6MixArr2[1]);
 console.log(d6MixArr3[1]);
+ */

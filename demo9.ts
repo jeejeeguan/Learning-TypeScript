@@ -1,4 +1,4 @@
-interface Resume {
+/* interface Resume {
     name: string;
     age: number;
     bust: number;
@@ -48,3 +48,4 @@ const getResume = (girl: Teacher) => {
 };
 filterResume(girl);
 getResume(girl);
+ */

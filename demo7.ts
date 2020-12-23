@@ -1,4 +1,4 @@
-// 数组
+/* // 数组
 const d7Arr: (string | number)[] = ["JeeJee", "Kwan", 28];
 
 // 元组
@@ -10,3 +10,4 @@ const d7TupleArr: [string, string, number][] = [
     ["hello", "world", 28],
     ["hello", "world", 28],
 ];
+ */

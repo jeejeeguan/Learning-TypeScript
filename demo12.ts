@@ -9,7 +9,7 @@ console.log(d12person.name); */
 
 // ---------简化为一下写法---------
 
-class d12Person {
+/* class d12Person {
     constructor(public name: string) {}
 }
 
@@ -21,4 +21,4 @@ class d12Teacher extends d12Person {
 
 const d12NewTeacher = new d12Teacher(28);
 console.log(d12NewTeacher.age);
-console.log(d12NewTeacher.name);
+console.log(d12NewTeacher.name); */

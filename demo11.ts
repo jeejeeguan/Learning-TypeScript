@@ -4,7 +4,7 @@
 // 类的内部和外部
 
 // public 类的属性，在内部和外部都能使用
-class Person {
+/* class Person {
     public name: string;
     public sayHi() {
         console.log(this.name + " say hello");
@@ -28,4 +28,4 @@ class PersonChildren extends Person2 {
         this.name; //继承后使用，没有报错
     }
 }
-const person2 = new Person2();
+const person2 = new Person2(); */
