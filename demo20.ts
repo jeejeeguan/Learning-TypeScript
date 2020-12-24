@@ -3,14 +3,14 @@
 //     return `${first}${second}`;
 // }
 // join("jeejee", "is cool");
-function join<T, P>(first: T, second: P) {
-    return `${first}${second}`;
-}
-join<string, number>("jeejee", 2);
+// function join<T, P>(first: T, second: P) {
+//     return `${first}${second}`;
+// }
+// join<string, number>("jeejee", 2);
 
-// 泛型中数组的使用
-function myFn<T>(params: T[]) {
-    return params;
-}
+// // 泛型中数组的使用
+// function myFn<T>(params: T[]) {
+//     return params;
+// }
 
-myFn<string>(["jee", "jee", "is"]);
+// myFn<string>(["jee", "jee", "is"]);
