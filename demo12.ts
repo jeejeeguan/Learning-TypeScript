@@ -17,7 +17,7 @@ class d12Teacher extends d12Person {
     constructor(public age: number) {
         super("is cool");
     }
-}
+} 
 
 const d12NewTeacher = new d12Teacher(28);
 console.log(d12NewTeacher.age);
